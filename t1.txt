@@ -32,6 +32,8 @@ new
 add
 
 
+stash_2
+
 
 stash_4-2
 
